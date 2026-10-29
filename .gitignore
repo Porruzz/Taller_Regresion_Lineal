@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary and log files
+*.log
+
+# Documentos Word y Presentaciones solicitados a ignorar
+*.docx
+*.html
+
+# Scripts auxiliares internos y duplicados
+create_word_report.py
+generate_notebook.py
+embed_notebook_outputs.py
+INFORME_EJECUTIVO_REGRESION.md
+notebook/
